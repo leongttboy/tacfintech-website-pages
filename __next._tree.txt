@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/0c70hby-~ogt0.css","style"]
-:HL["/brand/tactech-logo-plus-chinese.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"gUVpdVi5GguT9ouSjtqEA"}
+:HL["/_next/static/chunks/0h8lbr2u2b3bq.css","style"]
+:HL["/brand/tactech-logo-plus-chinese-metal-blue.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"NqPxlUOK49-10fbvHEANP"}
